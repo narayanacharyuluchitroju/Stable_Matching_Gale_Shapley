@@ -1,0 +1,7 @@
+3 3
+Alice Xavier Zeus John
+Carol Zeus John Xavier
+Leena John Zeus Xavier
+Xavier Alice Leena Carol
+Zeus Alice Carol Leena
+John Leena Alice Carol

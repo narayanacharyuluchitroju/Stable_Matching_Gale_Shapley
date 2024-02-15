@@ -1,0 +1,9 @@
+4 4
+A E F G H
+B E F G H
+C E F G H
+D E F G H
+E A B C D
+F A B C D
+G A B C D
+H A B C D
